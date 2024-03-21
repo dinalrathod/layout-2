@@ -70,10 +70,10 @@
 .co
 {
     background-color: skyblue;
-    height:fit-content;
-    width:auto;
+    height:25%;
+    width:99%;
     position: relative;
-    left:-10px;
+    left:-2px;
 }
 .cor
 {
